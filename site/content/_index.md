@@ -1,13 +1,15 @@
 ---
 title: Cassiopee Design
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: du linge que tu aimes.
+image: img/diapositive1.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Pourquoi mon enterprise? Why my web site?
+  text: >-
+    Vous allez vouloire acheter ici car tout ce que nous vendons est à 95%
+    réutiliser. 
+
+
+    You're going to want to buy here because everything we sell is 95% reused.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
