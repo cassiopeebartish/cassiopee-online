@@ -19,7 +19,7 @@ intro:
 
     I offer trensport (by bike) near the old terrbonne and jaccept (with exceptions) the special request with a price increase of course.
 products:
-  - image: img/image-2.jpg
+  - image: img/image-1.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
