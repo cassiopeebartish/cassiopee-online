@@ -17,7 +17,7 @@ intro:
     exeptions) les demande spétiale avec une augmentation de prix bien sur.
 
 
-    j'offre du trensport (à vélo) près du vieux terrbonne et jaccepte (avec exeptions) les demande spétiale avec une augmentation de prix bien sur.
+    I offer trensport (by bike) near the old terrbonne and jaccept (with exceptions) the special request with a price increase of course.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
