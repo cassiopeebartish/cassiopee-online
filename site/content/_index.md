@@ -13,18 +13,14 @@ blurb:
 intro:
   heading: "  Ce que nous offrons. What we offer."
   text: >-
-    j'offre du trensport (à vélo) près du vieux terrbonne et jaccepte (avec
+    j'offre du trensport (à vélo) près du vieux terrbonne et j'accepte (avec
     exeptions) les demande spétiale avec une augmentation de prix bien sur.
 
 
-    I offer trensport (by bike) near the old terrbonne and jaccept (with exceptions) the special request with a price increase of course.
+    I offer trensport (by bike) near the old terrbonne and I accsept (with exceptions) the special request with a price increase of course.
 products:
   - image: img/image-2.jpg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: " "
   - image: img/image-1.jpg
     text: " "
 values:
