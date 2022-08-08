@@ -1,7 +1,7 @@
 ---
 title: Cassiopee Design
 subtitle: du linge que tu aimes.
-image: img/logo.svg
+image: img/sweatshirts.jpg
 blurb:
   heading: Pourquoi mon enterprise? Why my web site?
   text: >-
