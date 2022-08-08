@@ -1,5 +1,5 @@
 ---
-title: Cassiopee Design
+title: Cassiopee's Design
 subtitle: du linge que tu aimes.
 image: img/sweatshirts.jpg
 blurb:
@@ -11,11 +11,13 @@ blurb:
 
     You're going to want to buy here because everything we sell is 95% reused.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: "  Ce que nous offrons. What we offer."
+  text: >-
+    j'offre du trensport (à vélo) près du vieux terrbonne et jaccepte (avec
+    exeptions) les demande spétiale avec une augmentation de prix bien sur.
+
+
+    j'offre du trensport (à vélo) près du vieux terrbonne et jaccepte (avec exeptions) les demande spétiale avec une augmentation de prix bien sur.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
