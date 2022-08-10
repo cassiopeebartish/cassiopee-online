@@ -3,21 +3,13 @@ title: Cassiopee's Design
 subtitle: du linge que tu aimes.
 image: img/sweatshirts.jpg
 blurb:
-  heading: Pourquoi mon enterprise? Why my web site?
-  text: >-
-    Vous allez vouloire acheter ici car tout ce que nous vendons est à 95%
-    réutiliser. 
-
-
-    You're going to want to buy here because everything we sell is 95% reused.
+  heading: Pourquoi mon enterprise?
+  text: Vous allez vouloire acheter ici car tout ce que nous vendons est à 95%
+    réutiliser.
 intro:
-  heading: "  Ce que nous offrons. What we offer."
-  text: >-
-    j'offre du trensport (à vélo) près du vieux terrbonne et j'accepte (avec
+  heading: "  Ce que nous offrons."
+  text: j'offre du trensport (à vélo) près du vieux terrbonne et j'accepte (avec
     exeptions) les demande spétiale avec une augmentation de prix bien sur.
-
-
-    I offer trensport (by bike) near the old terrbonne and I accsept (with exceptions) the special request with a price increase of course.
 products:
   - image: img/image-2.jpg
     text: " "
